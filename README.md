@@ -1,5 +1,4 @@
 # Simple TicTacToe game with Bot
-=======
 To run the game in Linux system just type in terminal
 
 ```
